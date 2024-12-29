@@ -121,7 +121,7 @@ gitalk:
     enable: true
     clientID: Iv23liJaVpIqP0J1RupK
     clientSecret: 00feff266e1a152133d59c6deecf75c5930075fe
-    repo: https://github.com/threemoreliu/threemoreliu.github.io
+    repo: threemoreliu.github.io
     owner: threemoreliu #（需要替换）GitHub repository 所有者，可以是个人或者组织。
     admin: threemoreliu #（需要替换）GitHub repository 的所有者和合作者（对这个 repository 有写权限的用户）。
 
