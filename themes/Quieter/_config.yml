@@ -1,13 +1,13 @@
 # 网站主页标题
-title: 主页
+title:未来站
 # 网站标题后缀
-suffix: Hexo-Theme-Quieter
+suffix: future
 # 作者名称(会显示在首页文章下面)
-author: GZ-Metal-Cell
+author: threemoreliu
 # 网站关键字
 keyword: Hexo theme, blog
 # 网站描述
-web_description: 🍓A simple and fully functional Hexo theme, improved based on Hexo theme quiet.
+web_description: 🍓enjoyFreetime.
 # 网站语言
 lang: zh-CN
 # 网站建站时间
@@ -34,9 +34,9 @@ menus_link:
 
 # 个人信息
 about: 
-    author: Zi-Zi
+    author: threemore
     portrait: 'https://gz-metal-cell.github.io/about/portrait.png'
-    description: '不以物喜，不以己悲。'
+    description: 'move forward!!!'
 
 # logo
 logo: /images/headers_icon/logo.webp
